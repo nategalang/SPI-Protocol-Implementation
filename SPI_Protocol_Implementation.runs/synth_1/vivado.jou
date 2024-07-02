@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Nov 23 21:27:35 2023
+# Process ID: 19844
+# Current directory: C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/SPI_Protocol_Implementation/SPI_Protocol_Implementation.runs/synth_1
+# Command line: vivado.exe -log spi_slave.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source spi_slave.tcl
+# Log file: C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/SPI_Protocol_Implementation/SPI_Protocol_Implementation.runs/synth_1/spi_slave.vds
+# Journal file: C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/SPI_Protocol_Implementation/SPI_Protocol_Implementation.runs/synth_1\vivado.jou
+# Running On: LAPTOP-01166KDR, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6378 MB
+#-----------------------------------------------------------
+source spi_slave.tcl -notrace

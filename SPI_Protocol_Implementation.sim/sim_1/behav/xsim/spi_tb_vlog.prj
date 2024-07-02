@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Exercise4/Exercise4/regfile.v" \
+"../../../../../Exercise4/Exercise4/spi_master.v" \
+"../../../../../Exercise4/Exercise4/spi_slave.v" \
+"../../../../../Exercise4/Exercise4/spi_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,9 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/regfile.v,1700490042,verilog,,C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/spi_master.v,,regfile,,,,,,,,
+C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/spi_master.v,1700479032,verilog,,C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/spi_slave.v,,spi_master,,,,,,,,
+C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/spi_slave.v,1700803676,verilog,,C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/spi_tb.v,,spi_slave,,,,,,,,
+C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/Exercise4/Exercise4/spi_tb.v,1700481434,verilog,,,,spi_tb,,,,,,,,
+C:/Users/Nate/Desktop/UPD_Files/4th_Year/1st_Semester/CoE_168/SPI_Protocol_Implementation/SPI_Protocol_Implementation.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
